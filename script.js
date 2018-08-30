@@ -3,5 +3,6 @@ myFunction(){
 }
 
 total(){
+	var benek = 7;
 	return null;
 }
