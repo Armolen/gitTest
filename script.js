@@ -3,5 +3,6 @@ myFunction(){
 }
 
 total(){
+	let b;
 	return null;
 }
